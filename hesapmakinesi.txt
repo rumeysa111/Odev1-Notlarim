@@ -1,0 +1,1 @@
+ ben hesap makinesi projesi yaptım pythonla.
